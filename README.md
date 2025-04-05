@@ -29,7 +29,7 @@ You can download my resume directly from the website by clicking the **Download 
 
 ## 📷 Preview
 
-![Portfolio Screenshot](https://github.com/Harshavardhan6017/Portfolio/blob/main/Screenshot_page_01.png)
+![Portfolio Screenshot](https://github.com/Harshavardhan6017/Portfolio/blob/main/Screenshot_page_01.png) 
 
 ## 📬 Contact
 
